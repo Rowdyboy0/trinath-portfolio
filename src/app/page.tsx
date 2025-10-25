@@ -190,7 +190,7 @@ const Education = () => (
         <CardHeader className="flex flex-row items-center gap-3">
           <div className="h-10 w-10 rounded-xl grid place-items-center border"><GraduationCap className="h-5 w-5"/></div>
           <div>
-            <CardTitle className="leading-tight">B.Tech — AI & Data Science</CardTitle>
+            <CardTitle className="leading-tight">B.Tech — Cyber Security</CardTitle>
             <p className="text-sm text-muted-foreground">Dhanalakshmi Srinivasan University, Tamil Nadu (2022–2026)</p>
           </div>
         </CardHeader>
